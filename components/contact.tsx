@@ -27,13 +27,13 @@ export function Contact() {
             </div>
             <div>
               <p className="font-medium text-card-foreground">LinkedIn</p>
-              <a href="https://linkedin.com/in/Arnav25" className="text-primary hover:underline">
-                linkedin.com/in/Arnav25
+              <a href="https://linkedin.com/in/Arnav" className="text-primary hover:underline">
+                linkedin.com/in/Arnav
               </a>
             </div>
             <div>
               <p className="font-medium text-card-foreground">GitHub</p>
-              <a href="https://github.com/Arnav250" className="text-primary hover:underline">
+              <a href="https://github.com/Arnav" className="text-primary hover:underline">
                 github.com/Arnav
               </a>
             </div>
