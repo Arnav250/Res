@@ -9,7 +9,7 @@ export function Education() {
       degree: "Bachelor of Technology, Computer Engineering",
       location: "Mumbai, Maharashtra",
       period: "Aug 2023 – Present",
-      grade: "CGPA: 9.82",
+      grade: "CGPA: 9.6",
     },
     {
       institution: "IIT Madras",
